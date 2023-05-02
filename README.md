@@ -1,5 +1,5 @@
 # agglomUA
-A set of R code blocks to try and approximate US Census Bureau "larger urban agglomerations"
+A set of R code blocks to approximate US Census Bureau "larger urban agglomerations"
 ## setup
 1. An urban area [shapefile](https://www.census.gov/cgi-bin/geo/shapefiles/)
 1. The sf package
