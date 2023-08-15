@@ -62,6 +62,8 @@ remove(df, nn, nn2, sf_remain, u, d1, d2, distrows, distrows1, distrows2, file,
 
 #metadata file. user inputs. load readxl package
 file <- "\\2020_Census_ua_list_all.xlsx"; library(readxl)
+#metadata found at this website
+#https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html
 
 #process agglom_list to metadata. results in a table of urban agglomerations
 #corresponding to the user provided distance
