@@ -1,7 +1,7 @@
 # agglomUA
 An R package to approximate US Census Bureau "larger urban agglomerations"
 ## setup
-1. An urban area [shapefile](https://www.census.gov/cgi-bin/geo/shapefiles/) and metadata excel file from the [urban and rural Census bureau program] (https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html)
+1. An urban area [shapefile](https://www.census.gov/cgi-bin/geo/shapefiles/) and metadata excel file from the [urban and rural Census bureau program](https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html)
 2. The package
 ```r
 #if sf is not already installed:
